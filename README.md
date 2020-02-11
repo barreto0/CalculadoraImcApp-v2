@@ -3,3 +3,6 @@
 Feita com o propósito de estudar desenvolvimento mobile com Dart e Flutter
 
 ![](videoDaCalculadora.gif)
+![picture](print01CalcIMC.jpeg)
+![picture](print02CalcIMC.jpeg)
+![picture](print03CalcIMC.jpeg)
